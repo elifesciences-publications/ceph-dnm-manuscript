@@ -2,6 +2,8 @@
 
 ### Thomas A. Sasani, Brent S. Pedersen, Ziyue Gao, Lisa M. Baird, Molly Przeworski, Lynn B. Jorde, Aaron R. Quinlan
 
+###https://doi.org/10.7554/eLife.46922
+
 This repository contains the necessary **Jupyter Notebooks and data files to reproduce figures in the manuscript (also see the link to a Binder environment below)**. 
 
 Below is an example figure from the MS, which summarizes our finding that the paternal age effect on DNM counts significantly differs between CEPH families. This figure can be created (in multiple parts) using this repository.
